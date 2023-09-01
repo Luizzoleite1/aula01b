@@ -57,3 +57,23 @@
 .buttonSearch:hover{
     transform: scale(1.2);
 }
+
+.main{
+    margin-top: 50px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #FFF;
+    width: 500px;
+}
+
+.main h2{
+    margin: 16px;
+    font-size: 30px;
+}
+
+.main span{
+    margin-bottom: 16px;
+    font-weight: 300;
+}
